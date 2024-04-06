@@ -6,7 +6,7 @@ Nice-admin is a front-end template-11. This is a simple responsive template buil
 4- Bootstrap5
 5- JS
 6- Vue3.js
-## and libraries:
+and libraries:
 1- Chart.js
 2- ApexChart.js
 3- Swiper.js
